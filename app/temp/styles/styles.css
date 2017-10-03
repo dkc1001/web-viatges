@@ -1120,6 +1120,10 @@ Instead edit gulp/templates/sprite */
 	z-index: 2;
 	-webkit-transition: background-color .3s ease-out;
 	transition: background-color .3s ease-out;
+<<<<<<< HEAD
+=======
+
+>>>>>>> ea933a837eab6ebbab1ddd8ba4c101caac9b9f60
 }
 
 .site-header--is-expanded {
@@ -1130,13 +1134,22 @@ Instead edit gulp/templates/sprite */
 
 .site-header {
 		background-color: rgba(47,85,114, .3)
+<<<<<<< HEAD
+=======
+
+>>>>>>> ea933a837eab6ebbab1ddd8ba4c101caac9b9f60
 }
 	}
 
 @media (min-width: 800px) {
 
 .site-header__btn-container {
+<<<<<<< HEAD
 			float: right	
+=======
+			float: right
+		
+>>>>>>> ea933a837eab6ebbab1ddd8ba4c101caac9b9f60
 	}
 	}
 
@@ -1257,7 +1270,11 @@ Instead edit gulp/templates/sprite */
 @media (min-width: 800px) {
 
 .site-header__menu-content {
+<<<<<<< HEAD
 			opacity: 1;
+=======
+			display: block;
+>>>>>>> ea933a837eab6ebbab1ddd8ba4c101caac9b9f60
 			z-index: 1;
 			padding-top: 0px;
 			-webkit-transform: scale(1);
@@ -1345,6 +1362,7 @@ Instead edit gulp/templates/sprite */
 			padding: 12px 0;
 			background-color: transparent
 	}
+<<<<<<< HEAD
 	}
 
 .reveal-item {
@@ -1359,4 +1377,6 @@ Instead edit gulp/templates/sprite */
 		opacity: 1;
 		-webkit-transform: scale(1);
 		        transform: scale(1);
+=======
+>>>>>>> ea933a837eab6ebbab1ddd8ba4c101caac9b9f60
 	}

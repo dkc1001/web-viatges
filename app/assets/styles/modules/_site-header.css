@@ -16,7 +16,12 @@
 	&__btn-container {
 		@mixin atMedium {
 			float: right;
+<<<<<<< HEAD
 		}	
+=======
+		}
+		
+>>>>>>> ea933a837eab6ebbab1ddd8ba4c101caac9b9f60
 	}
 
 	&__logo {
@@ -111,7 +116,11 @@
 		text-align: center;
 
 		@mixin atMedium {
+<<<<<<< HEAD
 			opacity: 1;
+=======
+			display: block;
+>>>>>>> ea933a837eab6ebbab1ddd8ba4c101caac9b9f60
 			z-index: 1;
 			padding-top: 0px;
 			transform: scale(1);
@@ -123,4 +132,8 @@
 			transform: scale(1);
 		}
 	}
+<<<<<<< HEAD
+=======
+
+>>>>>>> ea933a837eab6ebbab1ddd8ba4c101caac9b9f60
 }
